@@ -9,16 +9,16 @@ Módulo 1
 - [x] Aula 1
 - [x] Aula 2
 - [x] Aula 3
-- [ ] Aula 4
-- [ ] Aula 5
-- [ ] Aula 6
+- [x] Aula 4
+- [x] Aula 5
+- [x] Aula 6
 
 Módulo 2
-- [ ] Aula 1
-- [ ] Aula 2
-- [ ] Aula 3
-- [ ] Aula 4
-- [ ] Aula 5
+- [x] Aula 1
+- [x] Aula 2
+- [x] Aula 3
+- [x] Aula 4
+- [x] Aula 5
 
 Módulo 3
 - [ ] Aula 1
